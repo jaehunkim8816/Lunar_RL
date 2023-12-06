@@ -9,5 +9,4 @@
 #### !pip install --upgrade gym
 #### !pip install tqdm
 #### !pip install gym[box2d]
-#### !pip install pyvirtualdisplay moviepy
 #### !pip install pandas
