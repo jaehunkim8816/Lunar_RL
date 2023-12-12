@@ -1,7 +1,8 @@
+### 1) DQN, DDQN을 활용한 LunarLander-v2(discrete) 학습 
+ 
+### 2) 학습 모델 : https://drive.google.com/drive/folders/1ctDUQR4CuaUw_hy1WiQizPQn64YdYS3l?usp=sharing
 
-### 1) 학습 모델 : https://drive.google.com/drive/folders/1ctDUQR4CuaUw_hy1WiQizPQn64YdYS3l?usp=sharing
-
-### 2) 설치 라이브러리
+### 3) 설치 라이브러리
 #### !pip install opencv-python
 #### !pip install gym[all,accept-rom-license]
 #### !pip install swig
